@@ -128,8 +128,6 @@ next_btn.addEventListener('click', () => {
         Startquiz();
     }
 })
-
-
 Startquiz();
 
 
